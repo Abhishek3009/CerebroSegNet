@@ -1,6 +1,7 @@
-# Brain-MRI-tumor-Segmentation
+# MindNet: Revolutionizing Brain MRI Segmentation with Deep Learning
 
-## 10 Deep Learning Models (Convolutional Neural Networks) for Image Segmentation on Brain MRI scans dataset
+### Tumor Segmentation from Brain MRI Scans 
+### 10 Deep Learning Models (Convolutional Neural Networks) for Image Segmentation on Brain MRI scans dataset
 
 Follwing 10 convolutional neural networks were designed and trained in Tensorflow2.0 framework.
 The CNNs are Image Segmentation models used for segmentation of tumor from brain MRI scans.
