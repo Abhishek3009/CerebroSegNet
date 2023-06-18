@@ -24,7 +24,7 @@ The following models are implemented in their respective jupyter notebooks along
 - UNet (MobilenetV2 backbone)
 
 #### Jupyter Structure
-- Imports dataset from **kaggle.com**.
+- Imports dataset from **kaggle.com**(colab notebook only).
 - Imports required libraries and sets parameters.
 - Loads dataset and splits into train, test and validation.
 - Data Augmentation.
