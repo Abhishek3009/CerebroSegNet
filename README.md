@@ -1,4 +1,4 @@
-# MindNet: Revolutionizing Brain MRI Segmentation with Deep Learning
+# CerebroSeg: Revolutionizing Brain MRI Segmentation with Deep Learning
 
 ### Tumor Segmentation from Brain MRI Scans 
 ### 10 Deep Learning Models (Convolutional Neural Networks) for Image Segmentation on Brain MRI scans dataset
