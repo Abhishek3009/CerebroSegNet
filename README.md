@@ -39,7 +39,6 @@ To run this project, you will require the following stuff
 - **Sign-in** to your kaggle.com account.
 - Go to **Settings**.
 - Under **API** section click on **Create New Token** which will download the required **kaggle.json**.
-
 ###### Using Google Colab?
 - Open files and place **kaggle.json** at default location.
 ###### Using Local Machine?
@@ -49,3 +48,5 @@ To run this project, you will require the following stuff
 ```
 !chmod 600 kaggle.json
 ```
+###### Using Kaggle?
+- No need lol
